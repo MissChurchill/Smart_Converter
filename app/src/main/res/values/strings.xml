@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Smart Converter</string>
+    <string name="rapper_nelly_looking_hot">Rapper Nelly Looking Hot</string>
+    <string name="welcome_header">et gettin HOT in herre!</string>
+    <string name="convert_button">How HOT?</string>
+    <string name="celsius_temperature">celsius_temperature</string>
+    <string name="fahrenheit_temperature">fahrenheit_temperature</string>
+    <string name="shows_fahrenheit_temperature">Shows Fahrenheit temperature</string>
+    <string name="enter_fahrenheit_temperature">enter Fahrenheit temperature</string>
+    <string name="enter_celsius_temperature">Enter Celsius temperature</string>
+    <string name="reset_button">Click to Start Over</string>
+    <string name="enter_fahrenheit_temp">Enter Fahrenheit temperature</string>
+</resources>
