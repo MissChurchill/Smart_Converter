@@ -1,5 +1,5 @@
 # Smart_Converter
 Convert Celsius and Fahrenheit temperature app
 
-![giphy of app](https://gph.is/g/E3kBWPx)
+https://github.com/MissChurchill/Smart_Converter/blob/master/Animated%20GIF-original.mp4
 
