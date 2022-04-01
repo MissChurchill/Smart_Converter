@@ -8,7 +8,7 @@ Topics learned during the creation of this app:
 2. Layouts in Android
 3. TextViews 
 4. Basic styling for Android apps
-5. andling user interaction
+5. Handling user interaction
 
 
 
